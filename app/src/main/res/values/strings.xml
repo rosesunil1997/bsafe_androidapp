@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bsafe</string>
+    <string name="trip">Trip</string>
+    <string name="preference">Preferences</string>
+    <string name="exit">Exit</string>
+    <string name="profile">Profile</string>
+</resources>
